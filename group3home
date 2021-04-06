@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en-US" dir="ltr">
+<head>
+	<meta charset="utf-8">	
+	<title>Generations 2021</title>		
+</head>
+<body>
+  <header>
+    <h1>Group 3's First Website</h1>
+
+  </header>
+  <main>
+    <h2>Why We Love Generation</h2>
+    <section id="1">
+        <p><a href="https://usa.generation.org" target="_blank"></a></p>
+
+        <p><a href="https://www.codecademy.com/learn" target="_blank"></a></p>
+        <table border="2px solid black">
+          <tr >
+              <th colspan="2">Heading</th>
+          </tr>
+         
+          <tr>
+              <td>Row 1</td>
+              <td>column 1</td>
+          </tr>
+          <tr>
+              <td>Row 2</td>
+              <td>column 1</td>
+          </tr>
+          <tr>
+              <td>Row 3</td>
+              <td>column 1</td>
+          </tr>
+          <tr>
+              <td>Row 4</td>
+              <td>column 1</td>
+          </tr>
+        </table>
+    </section>
+    <section id="2">
+        <h2></h2>
+        <form action="">
+            <label for="password">Password</label>
+            <input id="password" type="password" name="password">
+            <br>
+            <br>
+            <label for="number">Enter Number</label>
+            <input id="number" type="number" name="">
+            <br>
+            <br>
+            <label for="dropdown">Dropdown List</label>
+            <select id="dropdown" name="dropdown">
+                <option value="option 1">Option 1</option>
+                <option value="option 2">Option 2</option>
+                <option value="option 3">Option 3</option>
+                <option value="option 4">Option 4</option>
+                <option value="option 5">Option 5</option>
+            </select>
+        <nav>
+            <ul>
+                <li><a href="#1">Section 1</a></li>
+                <li><a href="#2">Section 2</a></li>
+
+            </ul>
+        </nav>
+        <figure>
+            <img src="https://content.codecademy.com/courses/SemanticHTML/dogimage.jpeg"/>
+            <figcaption>Spaced out dog</figcaption>
+        </figure>
+
+
+        </form>
+    </section>
+
+
+
+
+  </main>
+  <footer>
+      <p>Built by: James G, Michael Ainouz, Johnny Tyson, Gaoussou Cissoko, Abayrga Hagos, & Crystal Morris</p>
+  </footer>
+</body>
