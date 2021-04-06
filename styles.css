@@ -1,0 +1,80 @@
+	.divThumb{
+		border: 0px;
+		height: 128px;
+		width:128px;
+		background: url(https://avatars.githubusercontent.com/u/55065447?s=400&u=4d80ee341135b27d6901154eaf21678bd8690f3b&v=4);
+		background-repeat: no-repeat;
+		background-size: contain;
+		float:left;
+		padding-right:10px;
+		}
+		
+	#bannerImg{
+		border:0px;
+		background:url('bg-fill.png');
+		background-repeat:repeat;
+		height:128px;
+		width:100%;
+		text-align:center;
+		
+
+		
+	}	
+		
+	body{
+		background-color:#1E90FF;		
+		}
+	header{
+		border: 5px groove #1E90FF;
+		background-color:black;
+		text-align:center;
+		border-radius: 25px;
+		padding:10px;
+		}
+	h1{line-height:64px;
+		padding-top:30px;
+		
+
+		
+		}
+	h1,h3{
+		color:#A9A9A9;
+		text-align:center;
+		}
+
+	hr	{
+		color:#1E90FF
+		}
+	#grad {
+		background-image: linear-gradient(black,#A9A9A9, black);
+        background-attachment:fixed;
+		}
+	.themeListing{
+		color:#A9A9A9;
+		position:relative;
+		width: 90%;
+		margin:auto;
+		padding:10px;
+		}
+	.themeListingBox{
+		background-color:black;
+		border: 5px groove #1E90FF;
+		border-radius:25px;
+		padding-bottom:20px;
+		height:inherit;
+		width:auto;
+		}
+	#mainContent{
+		background-color:transparent;
+		color:#A9A9A9;
+		width:80%;
+		height:100%;
+		position:relative;
+		margin:auto;
+		align:center-top;
+		}
+	.center{
+		position:absolute;
+		text-align:center;		
+		}
+	.containerBanner{height:128px; width:100%;}
